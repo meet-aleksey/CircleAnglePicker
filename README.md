@@ -12,10 +12,33 @@ To install CircleAnglePicker, run the following command in the Package Manager C
 Install-Package CircleAnglePicker
 ```
 
+## How to use
+
+Install the CircleAnglePicker package in your Windows Forms project.
+
+Or [download an archive file containing binary assemblies](https://github.com/meet-aleksey/CircleAnglePicker/releases), 
+unpack it and add to your project a reference to the assembly of the version of .NET Framework that you are using.
+
+Now you can create an instance of the CircleAnglePicker and add to the form:
+
+```C#
+var circleAnglePicker = new CircleAnglePicker();
+
+Controls.Add(circleAnglePicker);
+```
+
+To use CircleAnglePicker in designer mode, you need to add the control to the toolbox:
+
+1. Right-click on toolbox
+2. Select "Choose Items"
+3. Browse the CircleAnglePicker assembly on your computer.
+4. Add the item.
+5. Enjoy!
+
 ## Requirements
 
-* Windows Forms
-* .NET Framework 2.0/3.5/4.0/4.5/4.6/4.7 or later.
+* .NET Framework 2.0/3.5/4.0/4.5/4.6/4.7 or later;
+* Windows Forms.
 
 ## License
 
