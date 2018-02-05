@@ -1,8 +1,8 @@
 ﻿# CircleAnglePicker for Windows Forms
 
-This is user interface element for Windows Forms, which allows to pick an angles.
+This is user interface control for Windows Forms, which allows to pick an angles.
 
-The element of a circular shape, something similar can be seen in Photoshop.
+The control of a circular shape, something similar can be seen in Photoshop.
 
 ![Preview](preview.gif)
 
@@ -27,13 +27,15 @@ var circleAnglePicker = new CircleAnglePicker();
 Controls.Add(circleAnglePicker);
 ```
 
-To use CircleAnglePicker in designer mode, you need to add the control to the toolbox:
+If you can not find the control on the toolbox in designer mode, you need to add CircleAnglePicker to the toolbox:
 
 1. Right-click on toolbox
 2. Select "Choose Items"
 3. Browse the CircleAnglePicker assembly on your computer.
 4. Add the item.
 5. Enjoy!
+
+[See also article about installing and using CircleAnglePicker](https://goo.gl/4mQsDw).
 
 ## Requirements
 
