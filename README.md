@@ -1,6 +1,6 @@
 ﻿# CircleAnglePicker Control for Windows Forms
 
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2010%20%2F%202017-68217a.svg?style=flat)](https://www.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2005%20%2F%202017-68217a.svg?style=flat)](https://www.visualstudio.com/)
 [![Windows Forms](https://img.shields.io/badge/Windows%20Forms--68217a.svg?style=flat)](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)
 [![.NET Framework](https://img.shields.io/badge/.NET-v2.0%20%2F%20v4.7-68217a.svg?style=flat)](https://www.microsoft.com/net/download)
 [![License](https://img.shields.io/github/license/meet-aleksey/CircleAnglePicker.svg?style=flat&label=License)](https://github.com/meet-aleksey/CircleAnglePicker/blob/master/LICENSE)
