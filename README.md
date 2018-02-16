@@ -1,4 +1,10 @@
-﻿# CircleAnglePicker for Windows Forms
+﻿# CircleAnglePicker Control for Windows Forms
+
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2010%20%2F%202017-68217a.svg?style=flat)](https://www.visualstudio.com/)
+[![Windows Forms](https://img.shields.io/badge/Windows%20Forms--68217a.svg?style=flat)](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)
+[![.NET Framework](https://img.shields.io/badge/.NET-v2.0%20%2F%20v4.7-68217a.svg?style=flat)](https://www.microsoft.com/net/download)
+[![License](https://img.shields.io/github/license/meet-aleksey/CircleAnglePicker.svg?style=flat&label=License)](https://github.com/meet-aleksey/CircleAnglePicker/blob/master/LICENSE)
+[![NuGet](https://img.shields.io/nuget/dt/CircleAnglePicker.svg?style=flat&label=Downloads)](https://www.nuget.org/packages/CircleAnglePicker/)
 
 This is user interface control for Windows Forms, which allows to pick an angles.
 
@@ -29,8 +35,10 @@ Controls.Add(circleAnglePicker);
 
 If you can not find the control on the toolbox in designer mode, you need to add CircleAnglePicker to the toolbox:
 
-1. Right-click on toolbox
-2. Select "Choose Items"
+[![How to add a control to the Visual Studio toolbox](youtube.jpg)](https://www.youtube.com/watch?v=Zasmw8zfIbI)
+
+1. Right-click on toolbox.
+2. Select "Choose Items".
 3. Browse the CircleAnglePicker assembly on your computer.
 4. Add the item.
 5. Enjoy!
@@ -44,6 +52,6 @@ If you can not find the control on the toolbox in designer mode, you need to add
 
 ## License
 
-The MIT License (MIT)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Copyright © 2018, [@meet-aleksey](https://github.com/meet-aleksey)
